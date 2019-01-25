@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2aa528e4fd756275ff098cbc299f2fb595542fe2">
+        <dex dex="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff8204d8ae0900188793626436b8c0431504641b/classes.dex" />
+    </item>
+    <item
+        jar="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_b76eb3f5a57b68f8183c4644cecd748782e2a37a/classes.dex" />
+    </item>
+    <item
+        jar="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5ba46961eaeb5e8d22d02e64dc26695329de8421/classes.dex" />
+    </item>
+    <item
+        jar="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_57e5d7dddf6b8a700df0d5d09c101fed75607e60/classes.dex" />
+    </item>
+    <item
+        jar="/home/chengsiguo/sdk_2/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b9e3c7aff19abc039997a30d00712c2e5205bb3e/classes.dex" />
+    </item>
+    <item
+        jar="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_61c76fe9ecd9d71bf938273b0575d5eb36a732f1/classes.dex" />
+    </item>
+    <item
+        jar="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_f84a698024c857bca317c61087a208d9d7aad174/classes.dex" />
+    </item>
+    <item
+        jar="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2711da7b7dd155b80ea8cf2977b52c3d168756ac">
+        <dex dex="/home/chengsiguo/Desktop/fp demo/AndroidFingerPrintDemo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1168dc69de3e1af4434c6fe16dbada8acf93ebf2/classes.dex" />
+    </item>
+
+</items>
