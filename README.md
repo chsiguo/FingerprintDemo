@@ -5,3 +5,4 @@ This android studio(2.1.2) project, you can just import this code to your AS.
 
 A prebuilt apk file is in apks directory, you can just install it to you android device(android 6.0+, api level 23+).
 # FingerprintDemo
+![image](https://github.com/chsiguo/FingerprintDemo/blob/master/Screenshot_20190125-033444.png)
